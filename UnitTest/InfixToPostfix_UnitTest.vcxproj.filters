@@ -13,11 +13,13 @@
     <ClInclude Include="targetver.h">
       <Filter>Application</Filter>
     </ClInclude>
+    <ClInclude Include="TestUtilities.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Application</Filter>
     </ClCompile>
     <ClCompile Include="InfixToPostfix_UnitTest.cpp" />
+    <ClCompile Include="StringUtil_UnitTest.cpp" />
   </ItemGroup>
 </Project>

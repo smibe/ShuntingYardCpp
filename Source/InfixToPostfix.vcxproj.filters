@@ -14,11 +14,15 @@
       <Filter>Application</Filter>
     </ClInclude>
     <ClInclude Include="InfixToPostfix.h" />
+    <ClInclude Include="StringUtil.h">
+      <Filter>Application</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Application</Filter>
     </ClCompile>
     <ClCompile Include="InfixToPostfix.cpp" />
+    <ClCompile Include="StringUtil.cpp" />
   </ItemGroup>
 </Project>
